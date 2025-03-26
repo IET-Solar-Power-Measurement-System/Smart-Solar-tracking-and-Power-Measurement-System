@@ -1,8 +1,8 @@
-📌 Project Overview
+📖Project Overview
 
 Traditional solar panels remain static, limiting their ability to capture sunlight effectively throughout the day. This project introduces an intelligent solar tracking system that dynamically adjusts the panel's position to maximize energy absorption. Using real-time sunlight detection and power measurement, this system optimizes energy harvesting and performance analysis.
 
-🚀 Key Features
+🔑 Key Features
 1) Automated Sun Tracking – Adjusts the solar panel's position based on light intensity.
 2) Real-Time Power Monitoring – Continuously measures voltage, current, and power output.
 3) Energy Optimization – Maximizes power generation compared to static panels.
